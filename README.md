@@ -1,6 +1,7 @@
 # Error-404
-Daniel Verastegui
-Jesus Aldeano
-Joshua González
-Hermogenes Palacio
+Integrantes:
+Daniel Verastegui,
+Jesus Aldeano,
+Joshua González,
+Hermogenes Palacio y
 Daylin Drayton
