@@ -3,8 +3,6 @@ from flask import render_template
 from flask import request
 from flask import jsonify
 
-#from flask_cors import CORS
-
 from chat import get_response
 
 app = Flask(__name__)
