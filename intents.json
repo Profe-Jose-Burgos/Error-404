@@ -14,107 +14,249 @@
 
 
 {"tag":"Robo",
-"patterns":["¿Qué debo hacer si pierdo mi tarjeta de crédito o débito?"],
-"responses":["Es importante llamar inmediatamente al servicio de atención al cliente del banco para informar la pérdida o robo de la tarjeta y solicitar el bloqueo de la misma."
+"patterns":["Que debo hacer si pierdo mi tarjeta de credito o debito?"],
+"responses":["Es importante llamar inmediatamente al servicio de atencion al cliente del banco para informar la perdida o robo de la tarjeta y solicitar el bloqueo de la misma."
 ]},
 
 {"tag":"Robo",
-"patterns":["¿Cómo puedo bloquear o cancelar mi tarjeta de crédito o débito perdida o robada?"],
-"responses":["El banco puede bloquear o cancelar su tarjeta de crédito o débito perdida o robada y emitir una nueva tarjeta de reemplazo."
+"patterns":["Como puedo bloquear o cancelar mi tarjeta de credito o debito perdida o robada?"],
+"responses":["El banco puede bloquear o cancelar su tarjeta de credito o debito perdida o robada y emitir una nueva tarjeta de reemplazo."
 ]},
 
 {"tag":"Robo",
-"patterns":["¿Cómo puedo solicitar una nueva tarjeta de reemplazo si mi tarjeta de crédito o débito se pierde o es robada?"],
-"responses":["En general, las leyes y las políticas de los bancos establecen que el cliente no es responsable por cargos fraudulentos si reporta la pérdida o robo de la tarjeta de manera oportuna."
+"patterns":["Como puedo solicitar una nueva tarjeta de reemplazo si mi tarjeta de credito o debito se pierde o es robada?"],
+"responses":["En general, las leyes y las políticas de los bancos establecen que el cliente no es responsable por cargos fraudulentos si reporta la perdida o robo de la tarjeta de manera oportuna."
 ]},
 
 {"tag":"Robo",
-"patterns":["¿Cómo puedo protegerme de las transacciones fraudulentas si mi tarjeta de crédito o débito se pierde o es robada?"],
+"patterns":["Como puedo protegerme de las transacciones fraudulentas si mi tarjeta de credito o debito se pierde o es robada?"],
 "responses":[
-"El banco puede ofrecer servicios de seguridad adicionales como alertas de transacciones por correo electrónico o mensaje de texto, además de proporcionar asesoramiento sobre cómo protegerse de las transacciones fraudulentas."
+"El banco puede ofrecer servicios de seguridad adicionales como alertas de transacciones por correo electronico o mensaje de texto, ademas de proporcionar asesoramiento sobre como protegerse de las transacciones fraudulentas."
 ]},
 
 {"tag":"Robo",
-"patterns":["¿Qué debo hacer si recibo una transacción no autorizada en mi estado de cuenta de tarjeta de crédito o débito después de haber perdido o reportado mi tarjeta como robada?"],
+"patterns":["Que debo hacer si recibo una transaccion no autorizada en mi estado de cuenta de tarjeta de credito o debito despues de haber perdido o reportado mi tarjeta como robada?"],
 "responses":[
-"El banco puede ayudarlo a reversar cualquier transacción no autorizada y puede brindar asistencia para reportar cualquier actividad fraudulenta a las autoridades relevantes."
+"El banco puede ayudarlo a reversar cualquier transaccion no autorizada y puede brindar asistencia para reportar cualquier actividad fraudulenta a las autoridades relevantes."
 
 ]},
 
 {"tag":"Robo",
-"patterns":["¿Cómo puedo evitar que mi tarjeta de crédito o débito sea utilizada por otra persona después de haberla perdido o reportado como robada?"],
+"patterns":["Como puedo evitar que mi tarjeta de credito o debito sea utilizada por otra persona despues de haberla perdido o reportado como robada?"],
 "responses":[
-"El banco puede ofrecer servicios adicionales para evitar que la tarjeta sea utilizada por otra persona, como la emisión de una nueva tarjeta con un número de seguridad diferente."
+"El banco puede ofrecer servicios adicionales para evitar que la tarjeta sea utilizada por otra persona, como la emision de una nueva tarjeta con un numero de seguridad diferente."
 
 ]},
 
 {"tag":"Robo",
- "patterns":["¿Cómo puedo asegurarme de que mi información personal no sea utilizada de manera fraudulenta si mi tarjeta de crédito o débito se pierde o es robada?"],
-"responses":["El banco puede brindar asesoramiento sobre cómo monitorear su información personal y cómo tomar medidas adicionales para proteger su privacidad y seguridad financiera."
+ "patterns":["Como puedo asegurarme de que mi informacion personal no sea utilizada de manera fraudulenta si mi tarjeta de credito o debito se pierde o es robada?"],
+"responses":["El banco puede brindar asesoramiento sobre como monitorear su informacion personal y como tomar medidas adicionales para proteger su privacidad y seguridad financiera."
 
 ]},
 
 {"tag":"prestamos",
-"patterns":["¿Qué tipos de préstamos ofrece el banco?"],
-"responses":["Los bancos pueden ofrecer diferentes tipos de préstamos, como préstamos personales, préstamos hipotecarios, préstamos para automóviles, préstamos para educación, entre otros."
+"patterns":["Que tipos de prestamos ofrece el banco?"],
+"responses":["Los bancos pueden ofrecer diferentes tipos de prestamos, como prestamos personales, prestamos hipotecarios, prestamos para automoviles, prestamos para educacion, entre otros."
              
      ]},
 
 {"tag":"prestamos",
-"patterns":[ "¿Cuáles son los requisitos para obtener un préstamo?"],
-"responses":[ "Los requisitos para obtener un préstamo pueden variar dependiendo del tipo de préstamo y del banco, pero pueden incluir un buen historial crediticio, ingresos estables y una dirección de residencia verificable."
+"patterns":[ "Cuales son los requisitos para obtener un prestamo?"],
+"responses":[ "Los requisitos para obtener un prestamo pueden variar dependiendo del tipo de prestamo y del banco, pero pueden incluir un buen historial crediticio, ingresos estables y una direccion de residencia verificable."
              
      ]},
 
-     {"tag":"Como puedo verificar el saldo de mi cuenta",
+
+     {"tag":"cuentas",
      "patterns":["Cómo puedo verificar el saldo de mi cuenta?"],
      "responses":["Para verificar el saldo de su cuenta, puede ingresar a su banca en línea o móvil, llamar al servicio de atención al cliente o utilizar un cajero automático."
      
      ]},
      
-     {"tag":"Como puedo hacer un depósito en mi cuenta",
+     {"tag":"Cuentas",
      "patterns":["Cómo puedo hacer un depósito en mi cuenta?"],
      "responses":["Para hacer un depósito, puede hacerlo en una sucursal del banco, utilizando un cajero automático o mediante un depósito directo."
                   
      ]},
      
-     {"tag":"Como puedo transferir dinero entre mis cuentas o a otras cuentas",
+     {"tag":"Cuentas",
      "patterns":["¿Cómo puedo transferir dinero entre mis cuentas o a otras cuentas?"],
      "responses":["Para transferir dinero entre sus cuentas o a otras cuentas, puede hacerlo a través de su banca en línea o móvil, o utilizando un cajero automático."
                   
      ]},
      
-     {"tag":"Como puedo cambiar mi dirección o información de contacto",
+     {"tag":"Cuentas",
      "patterns":["Como puedo cambiar mi dirección o información de contacto"],
      "responses":["Para cambiar su dirección o información de contacto, puede hacerlo a través de su banca en línea o móvil, o visitando una sucursal del banco."
                   
                   
      ]},
      
-     {"tag":"Como puedo obtener un estado de cuenta",
+     {"tag":"Cuentas",
      "patterns":["¿Cómo puedo obtener un estado de cuenta?"],
      "responses":["Para obtener un estado de cuenta, puede hacerlo a través de su banca en línea o móvil, o visitando una sucursal del banco."
                   
      ]},
      
-     {"tag":"Como puedo cancelar una tarjeta de crédito o débito perdida o robada",
+     {"tag":"Cuentas",
      "patterns":["Cómo puedo cancelar una tarjeta de crédito o débito perdida o robada"],
      "responses":["Para cancelar una tarjeta de crédito o débito perdida o robada, puede llamar al servicio de atención al cliente del banco."
                 
-     ]}     ,     
+     ]},          
      
-     {"tag":"Que tipos de cuentas bancarias ofrece el banco",
+     {"tag":"Cuentas",
      "patterns":["¿Qué tipos de cuentas bancarias ofrece el banco?"],
-     "responses":["El banco ofrece una variedad de cuentas bancarias, como cuentas corrientes, cuentas de ahorro, cuentas conjuntas, cuentas para jubilados, entre otras."]}
+     "responses":["El banco ofrece una variedad de cuentas bancarias, como cuentas corrientes, cuentas de ahorro, cuentas conjuntas, cuentas para jubilados, entre otras."
+                  
+     ]},          
+     
+     {"tag":"Cuentas",
+     "patterns":["Ofrece el banco tarjetas de crédito o débito"],
+     "responses":["El banco ofrece tarjetas de crédito y/o débito con tasas de interés competitivas y programas de recompensas."
+                  
+     ]},          
+     
+     {"tag":"beneficios",
+     "patterns":["Ofrece el banco servicios de banca en línea o móvil"],
+     "responses":["El banco ofrece servicios de banca en línea y/o móvil para que los clientes puedan acceder a sus cuentas desde cualquier lugar."
+                  
+     ]},          
+     
+     {"tag":"beneficio",
+     "patterns":["Ofrece el banco servicios de atención al cliente las 24 horas"],
+     "responses":["El banco ofrece servicios de atención al cliente las 24 horas para ayudar a los clientes con cualquier problema o pregunta."
+                  
+     ]},          
+     
+     {"tag":"benedicios",
+     "patterns":["Ofrece el banco servicios de banca internacional"],
+     "responses":["El banco ofrece servicios de banca internacional para ayudar a los clientes a manejar sus transacciones financieras en el extranjero"
+                  
+     ]},          
+     
+     {"tag":"Cuentas",
+     "patterns":["Cómo puedo obtener ayuda si tengo problemas con mi cuenta o si necesito asistencia técnica"],
+     "responses":["Para obtener ayuda si tiene problemas con su cuenta o necesita asistencia técnica, puede llamar al servicio de atención al cliente del banco o visitar una sucursal del banco."
+                  
+     ]},          
+     
+     {"tag":"Creditos",
+     "patterns":["Cual es la importancia de crédito"],
+     "responses":["El crédito es importante porque transfiere  poder generalizado de compra que sirve equipo, terreno, materias primas, etc., o para pagar cualquier cuenta o cubrir cualquier gasto."
+                  
+     ]},          
+     
+     {"tag":"creditos",
+     "patterns":["Qué pasa si no pago mi crédito"],
+     "responses":["Lo más recomendable es recurrir a un crédito solo cuando se está libre de otras deudas.", "Si después de un mes no se ha realizado ningún pago, el banco puede empezar a cobrar algunos intereses, la mejor forma de evitar esto es siendo puntual en su cuenta y comunicándose con banco para buscar una mejor solución."
+                  
+     ]},          
+     
+     {"tag":"transferencia",
+     "patterns":["Como saber si una transferencia se hizo efectiva"],
+     "responses":["Para saber si una transferencia se hizo efectiva debes consultar el comprobante electrónico de pago(CEP), un documento con el que el banco informa que se realizó el pago."
+                  
+     ]},
+     
+     {"tag":"Cuentas",
+     "patterns":["Cuanto tiempo se demora en llegar una trasferencia de un banco a otro"],
+     "responses":["La transferencia pueden tomar hasta 3 días hábiles antes de ser recibida por el beneficiario final"
+                  
+     
+]},
+      
+
+{"tag":"cuentas",
+"patterns":["Cómo puedo verificar el saldo de mi cuenta?"],
+"responses":["Para verificar el saldo de su cuenta, puede ingresar a su banca en línea o móvil, llamar al servicio de atención al cliente o utilizar un cajero automático."
+
+]},
+
+{"tag":"Cuentas",
+"patterns":["Cómo puedo hacer un depósito en mi cuenta?"],
+"responses":["Para hacer un depósito, puede hacerlo en una sucursal del banco, utilizando un cajero automático o mediante un depósito directo."
+             
+]},
+
+{"tag":"Cuentas",
+"patterns":["¿Cómo puedo transferir dinero entre mis cuentas o a otras cuentas?"],
+"responses":["Para transferir dinero entre sus cuentas o a otras cuentas, puede hacerlo a través de su banca en línea o móvil, o utilizando un cajero automático."
+             
+]},
+
+{"tag":"Cuentas",
+"patterns":["Como puedo cambiar mi dirección o información de contacto"],
+"responses":["Para cambiar su dirección o información de contacto, puede hacerlo a través de su banca en línea o móvil, o visitando una sucursal del banco."
+             
+             
+]},
+
+{"tag":"Cuentas",
+"patterns":["¿Cómo puedo obtener un estado de cuenta?"],
+"responses":["Para obtener un estado de cuenta, puede hacerlo a través de su banca en línea o móvil, o visitando una sucursal del banco."
+             
+]},
+
+{"tag":"Cuentas",
+"patterns":["Cómo puedo cancelar una tarjeta de crédito o débito perdida o robada"],
+"responses":["Para cancelar una tarjeta de crédito o débito perdida o robada, puede llamar al servicio de atención al cliente del banco."
+           
+]},          
+
+{"tag":"Cuentas",
+"patterns":["¿Qué tipos de cuentas bancarias ofrece el banco?"],
+"responses":["El banco ofrece una variedad de cuentas bancarias, como cuentas corrientes, cuentas de ahorro, cuentas conjuntas, cuentas para jubilados, entre otras."
+             
+]},          
+
+{"tag":"Cuentas",
+"patterns":["Ofrece el banco tarjetas de crédito o débito"],
+"responses":["El banco ofrece tarjetas de crédito y/o débito con tasas de interés competitivas y programas de recompensas."
+             
+]},          
+
+{"tag":"beneficios",
+"patterns":["Ofrece el banco servicios de banca en línea o móvil"],
+"responses":["El banco ofrece servicios de banca en línea y/o móvil para que los clientes puedan acceder a sus cuentas desde cualquier lugar."
+             
+]},          
+
+{"tag":"beneficio",
+"patterns":["Ofrece el banco servicios de atención al cliente las 24 horas"],
+"responses":["El banco ofrece servicios de atención al cliente las 24 horas para ayudar a los clientes con cualquier problema o pregunta."
+             
+]},          
+
+{"tag":"benedicios",
+"patterns":["Ofrece el banco servicios de banca internacional"],
+"responses":["El banco ofrece servicios de banca internacional para ayudar a los clientes a manejar sus transacciones financieras en el extranjero"
+             
+]},          
+
+{"tag":"Cuentas",
+"patterns":["Cómo puedo obtener ayuda si tengo problemas con mi cuenta o si necesito asistencia técnica"],
+"responses":["Para obtener ayuda si tiene problemas con su cuenta o necesita asistencia técnica, puede llamar al servicio de atención al cliente del banco o visitar una sucursal del banco."
+             
+]},          
+
+{"tag":"transferencia",
+"patterns":["Como saber si una transferencia se hizo efectiva"],
+"responses":["Para saber si una transferencia se hizo efectiva debes consultar el comprobante electrónico de pago(CEP), un documento con el que el banco informa que se realizó el pago."
+             
+]},
+
+{"tag":"Cuentas",
+"patterns":["Cuanto tiempo se demora en llegar una trasferencia de un banco a otro"],
+"responses":["La transferencia pueden tomar hasta 3 días hábiles antes de ser recibida por el beneficiario final"
+             
+
+
+ ]}
 
 
 ]}
-     
 
 
 
 
 
-
-
-    
