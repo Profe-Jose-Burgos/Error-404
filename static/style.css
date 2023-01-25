@@ -100,7 +100,6 @@ button
 
 button:hover
 {
-    background: #fff;
     color: black    ;
 }
 
@@ -117,6 +116,7 @@ body {
     font-size: 100%;
     background: #F1F1F1;
 }   
+
 
 .page_heading
  {
@@ -144,13 +144,14 @@ body {
 .chatbox--active {
     transform: translateY(-40px);
     z-index: 123456;
-    opacity: 1;
+    opacity: 0;
     
 }
 
 /* BUTTON */
 .chatbox__button {
     text-align: right;
+    background: none;
 }
 
 .chatbox__header {
@@ -219,7 +220,7 @@ body {
 
 .chatbox__footer input {
     border: none;
-    padding: 10px 10px;
+    padding: 5px 30px;
     border-radius: 30px;
     text-align: center;
 }
@@ -228,9 +229,15 @@ body {
     
     background-color: Transparent;
     background-repeat:no-repeat;
-    color: whitesmoke;
     border: none;
     cursor:pointer;
     overflow: hidden; 
     padding-right: 25px;
 }
+
+.chatbox__send--footer:hover
+{
+    color: black ;
+}
+
+
